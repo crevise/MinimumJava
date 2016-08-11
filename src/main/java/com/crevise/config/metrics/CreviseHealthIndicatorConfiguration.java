@@ -9,7 +9,7 @@ import javax.inject.Inject;
 import javax.sql.DataSource;
 
 @Configuration
-public class JHipsterHealthIndicatorConfiguration {
+public class CreviseHealthIndicatorConfiguration {
 
     @Inject
     private JavaMailSenderImpl javaMailSender;
